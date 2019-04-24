@@ -1,3 +1,3 @@
-# python code
+# CS I Python
 ## discription
-- CS I
+- Programmes wrote for CS I
